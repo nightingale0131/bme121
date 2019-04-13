@@ -1,0 +1,736 @@
+﻿African buffalo	700
+Water opossum (yapok)	1
+Golden lion tamarin	1
+Small-toothed palm civet	2
+Cape hare	2
+New Guinean bandicoot	1
+Potto	1
+Northern fur seal	166
+Hairy-rumpted agouti	3
+Brush rabbit	1
+Bawean deer	55
+Golden-rumped lion tamarin	1
+Diana monkey	5
+Bowhead	100000
+Bushpig	88
+Brown hyena	42
+Narrow-striped mongoose	1
+Panther genet	2
+Siberian weasel	1
+White-nosed bearded saki	3
+Pygmy chimpanzee or bonono	40
+Sable	1
+Southern elephant seal	1400
+Thomson's gazelle	25
+Toque macaque	4
+Ringtailed rock wallaby	6
+Caribbean manatee	322
+Riverine or bushman rabbit	1
+Agile wallaby	16
+Okapi	225
+Northern naked-tailed armadillo	3
+Javan rhinoceros	1750
+Northern river otter	9
+Hartebeest	159
+Philippine brown deer	50
+Audubon's cottontail rabbit	1
+Red uakari	3
+Gray dorcopsis	4
+Baikal seal	90
+Addax	93
+Reeves's muntjac	18
+Peruvian guinea pig	1
+Kiang	275
+Black-tailed prairie dog	1
+Goeldi's monkey	1
+Margay	4
+Black giant squirrel	2
+Oriental small-clawed otter	3
+Black-legged mongoose	2
+Mountain reedbuck	30
+Flat-headed cat	7
+Bottlenosed dolphin	200
+Mountain gazelle	23
+Hawaiian monk seal	223
+Ruffed lemur	4
+Cheetah	54
+South African ground squirrel	1
+Hanuman langur	14
+Six-banded armadillo	5
+Flying lemur (glider)	1
+European mink	1
+Abyssinian genet	2
+Mantled howler monkey	7
+Island gray fox	2
+Diademed sifaka	6
+Grizzled tree kangaroo	11
+Indian rhinoceros	1602
+Northern night monkey	1
+Lesser mouse-deer	4
+Giraffe	800
+Sand cat	3
+Ruddy mongoose	2
+Klipspringer	12
+Ringtail	1
+White-handed gibbon	7
+Allied rock wallaby	4
+Red and white giant flying squirrel	2
+Indian flying fox	1
+Lion	175
+Marsh mongoose	3
+Black tree kangaroo	8
+Red-capped mangabey	9
+Ringed seal	90
+Mountain goat	90
+Booted macaque	4
+Indian fox	2
+Bongo	308
+Molina's hog-nosed skunk	3
+European pine marten	1
+Peruvian mountain viscacha	1
+Red-necked wallaby	16
+Guianan saki	1
+Lemuroid ringtail possum	1
+Ross seal	177
+Harp seal	180
+Black-footed cat	2
+Kob	105
+South African fur seal	128
+Musky rat kangaroo	1
+Mediterranean monk seal	275
+Bolivian red howler monkey	7
+Northern sea lion	415
+Nuttall's cottontail rabbit	1
+Red-bellied lemur	2
+Blue duiker	6
+Southern pudu	10
+African golden cat	11
+Steenbok	13
+Guyanan agouti	3
+Quokka	4
+Snow leopard	50
+European hare	4
+Equatorial saki	1
+Northern right whale	23000
+Spiny rat	1
+Black-cheeked white-nosed monkey	4
+Malagasy civet	2
+Melon-headed whale	206
+American badger	8
+Black-striped scrub wallaby	11
+Moonrat	1
+Abert's squirrel	1
+Water buffalo	725
+Western gray kangaroo	28
+Binturong	12
+L'hoest's monkey	5
+Eastern gray kangaroo	50
+Kloss's gibbon	6
+Northern nail-tailed wallaby	6
+Large-spotted genet	2
+Indian muntjac	21
+Brown-bearded saki	3
+Golden jackal	11
+Striped ground squirrel	1
+Slender mongoose	1
+Nubian ibex	46
+Greater bamboo lemur	2
+Dusky titi	1
+Short-nosed echidna	2
+Weeping capuchin	3
+Rock cavy	1
+Sun bear	46
+Yellow-throated marten	3
+Bay duiker	12
+Rock squirrel	1
+Brown lemur	3
+Maned wolf	22
+Eastern roe deer	39
+Kinkajou	3
+White-eared opossum	1
+Marbled cat	4
+Short-beaked saddleback dolphin	80
+Northern bottlenose whale	6500
+Indian gazelle	19
+Striped polecat, zorilla	1
+Tenrec	1
+Coatimundi	5
+Calamian deer	41
+Sumatran rhinoceros	1260
+Tasmanian red-bellied pademelon	5
+Gelada baboon	16
+Australian tiger cat	6
+Slender-tailed cloud rat	2
+Giant forest hog	203
+Rhesus monkey	8
+Siberian musk deer	10
+Gaur	825
+Minke whale	7500
+Polar bear	475
+Mountain tapir	149
+Fisher	3
+Mona monkey	5
+Tasmanian bettong	2
+Blanford's fox	1
+Mongolian gazelle	30
+Bushbuck	60
+Soemmering's gazelle	49
+Red-bellied squirrel	1
+Matschie's tree kangaroo	7
+Malagasy giant rat	1
+Black-fronted duiker	14
+Vicugna	50
+Ribbon seal	90
+Cape grey mongoose	1
+Golden leaf monkey	8
+Bennett's tree kangaroo	9
+Maxwell's duiker	7
+Borneo gibbon	6
+Monk saki	2
+South American squirrel monkey	1
+Assam macaque	9
+Indian giant flying squirrel	2
+Little grison	1
+Kouprey	800
+Pemba flying fox	1
+Capped leaf monkey	11
+Golden-headed lion tamarin	1
+Douc langur	10
+Gray wolf	27
+Andean hairy armadillo	2
+Mitred leaf monkey	7
+Oriental civet	10
+Bobak marmot	7
+Aoudad	93
+Meerkat	1
+Sei whale	20000
+Black duiker	18
+South American fur seal	110
+Crab-eating raccoon	6
+Mountain beaver	1
+Lesser kudu	83
+Cape porcupine	24
+Black howler monkey	5
+Marsh deer	103
+Sooty agouti	4
+Fin whale	70000
+New Zealand sea lion	188
+Otter civet	4
+Spectacled hare-wallaby	3
+Potoroo	1
+Mongoose	2
+Northern elephant seal	1600
+Eastern cottontail	1
+Leopard	54
+Springhare	4
+Long-tailed macaque	6
+Common long-nosed armadillo	6
+Asiatic brush-tailed porcupine	2
+Pacarana	12
+Nyala	120
+Caracal	16
+Takin	180
+North Sumatran leaf monkey	7
+Crab-eating fox	7
+Ganges dolphin	70
+Eld's deer	123
+Chamois	38
+Gambian rat	2
+Red-tailed sportive lemur	1
+Babirusa	72
+Agile gibbon	6
+Olingo	1
+Pronghorn	46
+Japanese marten	1
+African elephant	4800
+Mexican tree porcupine	2
+Giant anteater	29
+Black flying fox	1
+Suni	7
+Asiatic golden cat	14
+Bush dog	6
+Black-tailed jack rabbit	4
+Hippopotamus	3750
+Northern tamandua	5
+Grison	2
+Tibetan macaque	10
+Nile lechwe	90
+Indian spotted chevrotain	2
+Bonnet macaque	7
+Long-nosed bandicoot	1
+Gray whale	28500
+Little spotted cat	2
+Common rhebok	25
+Black-footed rock wallaby	4
+Argali	160
+European beaver	25
+Javan pig	76
+Wild cat	6
+Spectacled flying fox	1
+Hector's dolphin	56
+Linne's two-toed sloth	6
+Commerson's dolphin	50
+New England cottontail rabbit	1
+Natal duiker	10
+River dolphin	47
+Black-chested mustached tamarin	1
+Pale giant squirrel	1
+Marsh cottontail rabbit	1
+Bolivian titi	1
+Fennec	1
+Zebra duiker	18
+Water chevrotain	11
+Ring-tailed lemur	3
+Dorcas gazelle	15
+Fossa	10
+Leopard cat	5
+Irrawaddy dolphin	190
+Greater galago	1
+Mexican black howler monkey	7
+Nutria	8
+Fea's muntjac	22
+Eastern fox squirrel	1
+Yangzte river dolphin or baiji	84
+Eastern gray squirrel	1
+Cape fox	4
+Brown capuchin	3
+Lemurine night monkey	1
+Northern hairy-nosed wombat	31
+Hairy tree porcupine	2
+Serval	13
+Rufous 'rat'-kangaroo	3
+Western quoll	1
+Long-snouted mongoose	3
+Cuvier's gazelle	18
+White-bellied spider monkey	8
+Ridled nail-tailed wallaby	6
+Spanish lynx	11
+Spotted skunk	1
+Rufous hare-wallaby	1
+Bat-eared fox	4
+Long-nosed cusimanse	1
+Common palm civet	3
+Black-backed jackal	10
+Crested rat	1
+Azara's opossum	1
+Red giant flying squirrel	2
+Banded mongoose	1
+Scaly-tailed possum	2
+Banteng	700
+Anoa	155
+Waterbuck	175
+Servaline genet	1
+Southern tamandua	5
+Arabian oryx	121
+Alpine musk deer	11
+De Brazza's monkey	6
+Nilgai	180
+Banded palm civet	2
+Northern bettong	1
+Small-eared dog	10
+Honey badger	10
+Eurasian river otter	7
+Red brocket	46
+Western roe deer	22
+Woolly spider monkey or muriqui	11
+Sassaby or blesbok	85
+Finless porpoise	33
+Sable antelope	225
+Brush-tailed porcupine	3
+Giant armadillo	33
+Brush-tailed possum	2
+Snowshoe rabbit	2
+White-faced capuchin	3
+Comoro black flying fox	1
+Talapoin	1
+Black-footed tree rat	1
+American black bear	154
+Australian sea lion	190
+Caribou and reindeer	101
+Antilopine wallaroo	50
+Yak	667
+White-tailed deer	87
+Pantropical spotted dolphin	113
+Maned sloth	4
+Red-legged pademelon	4
+Kirk's dik-dik	5
+Slow loris	1
+Eurasian red squirrel	1
+Burchell's zebra	280
+Lesser panda	4
+Brazilian tapir	250
+Small Indian civet	3
+Southern opossum	2
+Canada lynx	10
+Cane rat	7
+Coarse-haired wombat	26
+Tammar wallaby	7
+Banded linsang	1
+Striped skunk	4
+Central American spider monkey	7
+Virginia opossum	3
+Hoary marmot	6
+Banded hare-wallaby	2
+Duck-billed platypus	1
+Gray monk saki	1
+Tufted deer	34
+Walrus	1013
+Himalayan tahr	35
+Yellow-bellied marmot	4
+Cuban hutia	5
+Markhor	41
+Franciscana	41
+Hooded seal	405
+Indian pangolin	13
+Pacific white-sided dolphin	103
+Proboscis monkey	15
+Asian elephant	3178
+White-nosed guenon	5
+Alpine marmot	4
+Noisy night monkey	1
+Tangalunga	7
+Quoll	1
+Golden-crowned sifaka	4
+Black-mantled tamarin	1
+African palm civet	2
+Ground cuscus	2
+Golden-bellied water rat	1
+Red fox	4
+Tiger	120
+Grevy's zebra	384
+Malagasy ring-tailed mongoose	1
+Hog-nosed skunk	2
+Algerian hedgehog	1
+Gorilla	140
+Chimpanzee	45
+Gerenuk	44
+Hairy armadillo	2
+Small-eared galago	1
+Dibatag	31
+Black uakari	3
+Speke's gazelle	20
+Tonkean macaque	12
+Royal antelope	2
+Parma wallaby	4
+Four-horned antelope	19
+Brown dorcopsis	5
+Risso's dolphin	425
+Spotted seal	85
+Fluffy glider	1
+Indian crested porcupine	20
+African porcupine	20
+Bighorn sheep	70
+Mountain anoa	150
+Doria's tree kangaroo	10
+Hispaniolan hutia	1
+Red-fronted gazelle	15
+Masked palm civet	4
+Guinea pig	1
+Goodfellow's tree kangaroo	7
+Old World rabbit	2
+Bolivian squirrel monkey	1
+Seven-banded armadillo	1
+American beaver	20
+Harbor porpoise	53
+African clawless otter	24
+Cougar	63
+Red river hog	88
+Guemals	45
+Hog badger	11
+Patas monkey	8
+Three-toed tree sloth	4
+Giant otter	24
+Striped-necked mongoose	2
+Hodgson's giant flying squirrel	2
+Jaguar	81
+Asian long-tailed porcupine	2
+Southern bushy-tailed olingo	1
+Red deer	200
+Gray fox	5
+Moustached monkey	4
+Kit fox	2
+Kulan	230
+North American porcupine	9
+Midas tamarin	1
+African pygmy (four-toed) hedgehog	1
+Coppery titi	1
+Woodchuck	4
+Golden bamboo lemur	1
+Haitian solenodon	1
+Aardvark	60
+Bearded seal	373
+Javan mongoose	1
+Acouchi	1
+Humpback whale	30000
+Indian giant squirrel	2
+Striped dolphin	113
+Gray seal	268
+Fraser's dolphin	164
+Blainville's beaked whale	1088
+Short-finned pilot whale	2200
+Weasel sportive lemur	1
+Antarctic fur seal	85
+Burrowing bettong	1
+Sun-tailed monkey	5
+Long-nosed echidna	8
+Bharal	55
+Silvery gibbon	6
+Brush-tailed rock wallaby	6
+Crowned lemur	3
+Pampas deer	33
+Amazonian manatee	480
+Indo-Pacific humpbacked dolphin	280
+Wolverine	16
+Sloth bear	100
+Indonesian porcupine	3
+Fishing cat	11
+Thorold's deer	135
+Spectacled bear	109
+Dall's sheep	73
+Mountain brush-tailed possum	3
+Jentink's duiker	70
+Mountain paca	9
+Rock hyrax	4
+Wart hog	100
+Common raccoon	6
+Collared peccary	20
+Northern quoll	1
+African wild dog	27
+Owston's palm civet	3
+Muskox	315
+Eastern European hedgehog	1
+Woylie	2
+Old World porcupine	8
+Azara's agouti	3
+Cacomistle	1
+Red kangaroo	55
+Rhim gazelle	49
+Central American agouti	2
+Stump-tailed macaque	9
+Dhole	16
+Chacoan peccary	35
+Lesser bamboo rat	1
+Coyote	13
+Paca	9
+Red-chested mustached tamarin	1
+Small-spotted genet	2
+Gunnison's prairie dog	1
+La Plata three-banded armadillo	2
+Timor deer	63
+European polecat	1
+Lechwe	95
+Beluga	1430
+Amazon dolphin	84
+Mountain zebra	296
+Bobcat	9
+Burmese ferret badger	2
+Spotted cuscus	4
+Leopard seal	368
+Brown's hutia	2
+Capybara	55
+Spanish ibex	58
+White-lipped peccary	22
+Vancouver marmot	5
+Bush duiker	19
+Tayra	5
+Jungle cat	10
+Western European hedgehog	1
+Crowned guenon	4
+Saiga	38
+Pigtail macaque	8
+Dugong	360
+Large flying fox	1
+Bahamian hutia	1
+Mexican agouti	3
+Raccoon dog	7
+Leeser hairy armadillo	1
+Hamadryas baboon	18
+White-nosed coati	4
+California sea lion	180
+Impala	53
+Francois' langur	7
+Pygmy hippopotamus	215
+Crab-eating mongoose	2
+Pyranean chamois	30
+Western rock wallaby	4
+Sika deer	42
+Killer whale	3988
+Goral	32
+Corsac fox	3
+Ibex	83
+American marten	1
+Gemsbok	170
+Southern brown bandicoot	1
+Tasmanian devil	7
+Fallow deer	70
+False killer whale	748
+Cuban solenodon	1
+Springbok	39
+Sitatunga	88
+Gray-cheeked mangabey	9
+Topi	110
+Long-footed potoroo	2
+Giant rat	1
+Hoffmann's two-toed sloth	6
+Plains viscacha	6
+Chilean guemal	70
+American bison	630
+Southern fur seal	46
+Angolan colobus	9
+Whiptail wallaby	17
+Mongoose lemur	2
+Narwhal	1250
+Ocelot	9
+Chinese goral	27
+Goitered gazelle	49
+Guereza	10
+Barasingha	170
+Grant's gazelle	67
+Sambar	185
+Ferret badger	1
+Gervais's beaked whale	5600
+Preuss's monkey	5
+Scimitar-horned oryx	178
+Black wallaroo	18
+Southern right whale	45000
+Sub-Antarctic fur seal	50
+Black rhinoceros	1100
+Harbor seal	115
+Side-striped jackal	10
+Pygmy sperm whale	425
+Japanese giant flying squirrel	2
+Greater mouse-deer	7
+White-whiskered spider monkey	6
+Mountain viscacha	2
+Short-tailed mongoose	1
+Guanaco	128
+Old World badger	13
+Southern reedbuck	58
+Chamek spider monkey	6
+Purple-faced leaf monkey	7
+Asiatic black bear	104
+Blue whale	136000
+Liontail macaque	8
+Drill	18
+Caspian seal	86
+West Caucasian tur	70
+Red-flanked duiker	13
+New Guinea spiny bandicoot	1
+Greater kudu	218
+Celebes crested macaque	8
+Koala	9
+Orangutan	64
+Campbell's monkey	4
+Rough-toothed dolphin	114
+Greater gliding possum	1
+Roan antelope	225
+Baird's tapir	300
+Red-bellied monkey	3
+Beech marten	2
+Japanese macaque	9
+Allen's swamp monkey	5
+White-fronted capuchin	2
+Golden-rumped elephant shrew	1
+Mule deer	57
+European bison	610
+Rufous spiny bandicoot	1
+Clouded leopard	20
+Hooded skunk	1
+Gray brocket	17
+Chinese water deer	12
+Brindled bandicoot	2
+Southern naked-tailed armadillo	4
+Barbary macaque	11
+Black lemur	3
+Pichi	2
+Nabarlek	1
+Bamboo lemur	1
+Dusky leaf monkey	7
+Baird's beaked whale	11380
+Yellow-backed duiker	62
+Gray cuscus	3
+Black spider monkey	8
+Swamp wallaby	15
+Swift fox	2
+Pale fox	3
+Black-footed ferret	1
+Pere David's deer	187
+Long-finned pilot whale	1060
+Three-banded armadillo	1
+Southern sea lion	208
+New Zealand fur seal	55
+Chaco tuco-tuco	1
+Yellow mongoose	1
+Moose	386
+African civet	14
+Black-bellied hamster	1
+Bactrian camel	475
+Weddell seal	425
+Chital	36
+Smooth-coated otter	9
+King colobus	10
+Prehensile-tailed porcupine	4
+White-tailed mongoose	4
+Mountain hare	4
+Spotted hyena	63
+Giant panda	118
+Bush hyrax	2
+Arabian tahr	23
+Bear cuscus	7
+Owl-faced monkey	4
+East Caucasian tur	50
+Ring-tailed possum	1
+Blue monkey	9
+Cuvier's beaked whale	2701
+Agouti	3
+Blue wildebeest	165
+Brown bear and grizzly bear	278
+Bohar reedbuck	46
+Striped hyena	40
+Pygmy hog	8
+Malayan tapir	250
+Dall's porpoise	120
+Mandrill	23
+Hairy-nosed wombat	26
+Marbled polecat	1
+Bearded pig	103
+Bryde's whale	16000
+Emperor tamarin	1
+Atlantic white-sided dolphin	208
+White rhinoceros	2175
+Red howler monkey	7
+White-tailed jackrabbit	3
+Large bamboo rat	3
+Chinese forest musk deer	12
+Muskrat	1
+Wallaroo	30
+Tree hyrax	3
+Blackbuck	38
+Oribi	17
+Central American squirrel monkey	1
+Aye-aye	2
+Rabbit-bandicoot or bilby	1
+Greater long-nosed bandicoot	1
+Chinchilla	1
+Pileated gibbon	6
+Lynx	23
+Nilgiri tahr	75
+Lesser white-nosed monkey	4
+Wild boar	180
+Sea otter	26
+Tamaraw	240
+Rusty-spotted cat	1
+Red-necked pademelon	4
+Verreaux's sifaka	5
+Tana River mangabey	9
+Cape grysbok	10
+Papuan mountain wallaby	3
+Armored rat	1
+Gray-headed flying fox	1
+Chinese pangolin	2
+Neotropical river otter	8
+Gunther's dik-dik	5
+Black wildebeest	132
+Patagonian cavy	13
+Grizzled leaf monkey	7
+Dama gazelle	73
